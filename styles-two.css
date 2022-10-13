@@ -1,0 +1,1907 @@
+
+
+@media screen and (min-width: 335px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 172px;
+        margin-top: 47px;
+        margin-left: -18px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 312px;
+        margin-top: -245px;
+        margin-right: 5px;
+    }
+
+    .roulette-spining{
+        height: 190px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 343px;
+        margin-bottom: 169px;
+        margin-right: -33px;
+    }
+
+    .button {
+        width: 297px;
+        height: 53px;
+        bottom: 185px;
+        margin-left: 4px;
+    }
+
+    .inner-button {
+        font-size: 21px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 180px;
+        bottom: 180px;
+        left: 75px;
+    }
+    
+    .wheel-button{
+        width: 160px;
+        bottom: 120px;
+        left: 89px;
+    }
+
+    #you-win{
+        left: -30px;
+        width: 360px;
+        bottom: 50px;
+    }
+    
+    .win-wheel-button { 
+        left: 40px;
+        width: 240px;
+        bottom: 120px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 375px) {
+ 
+    .child1{
+        left: 74px;
+    }
+
+    .lucky-win {
+        height: 172px;
+        margin-top: 47px;
+        margin-left: -5px;
+    }
+
+    .child2{
+        bottom: 586px;
+        left: 164px;
+    }
+
+    .roulette-stage {
+        height: 296px;
+        margin-top: 14px;
+        margin-right: 42px;
+    }
+
+    .roulette-spining {
+        height: 200px;
+        margin-top: 15px;
+        margin-right: 29px;
+    }
+ 
+   .child3{
+        right: 2px;
+        bottom: 131px;
+    }
+
+    .model-girl {
+        height: 339px;
+        margin-bottom: 94px;
+        margin-right: -4px;
+    }
+
+    .button {
+        width: 287px;
+        height: 52px;
+        bottom: 181px;
+        margin-left: 16px;
+    }
+
+    .inner-button {
+        padding-top: 5px;
+        font-size: 24px;
+    }
+    
+
+
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 100px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 112px;
+    }
+
+    #you-win {
+        left: -3px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 68px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+    
+}
+
+@media screen and (min-width: 380px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 172px;
+        margin-top: 47px;
+        margin-left: -1px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 312px;
+        margin-top: -245px;
+        margin-right: -6px;
+    }
+
+    .roulette-spining {
+        height: 200px;
+        margin-top: -245px;
+        margin-right: -5px;
+    }
+
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 343px;
+        margin-bottom: 169px;
+        margin-right: -24px;
+    }
+
+    .button {
+        width: 343px;
+        height: 53px;
+        bottom: 185px;
+        margin-left: 4px;
+    }
+
+    .inner-button {
+        font-size: 21px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+    
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 100px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 112px;
+    }
+
+    #you-win {
+        left: -3px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 68px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media screen and (min-width: 410px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 172px;
+        margin-top: 47px;
+        margin-left: 19px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 312px;
+        margin-top: -245px;
+        margin-right: -6px;
+    }
+
+    .roulette-spining {
+        height: 200px;
+        margin-top: -245px;
+        margin-right: -5px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 343px;
+        margin-bottom: 169px;
+        margin-right: -24px;
+    }
+
+    .button {
+        width: 343px;
+        height: 53px;
+        bottom: 185px;
+        margin-left: 4px;
+    }
+
+    .inner-button {
+        font-size: 21px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+    
+    
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 124px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 141px;
+    }
+
+    #you-win {
+        left: 20px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 93px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 425px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 171px;
+        margin-top: 47px;
+        margin-left: 20px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 318px;
+        margin-top: -245px;
+        margin-right: -2px;
+    }
+    
+    .roulette-spining {
+        height: 200px;
+        margin-top: -245px;
+        margin-right: -5px;
+    }
+    
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 350px;
+        margin-bottom: 169px;
+        margin-right: -30px;
+    }
+
+    .button {
+        width: 337px;
+        height: 55px;
+        bottom: 176px;
+        margin-left: 3px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 124px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 141px;
+    }
+
+    #you-win {
+        left: 20px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 93px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 445px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 171px;
+        margin-top: 47px;
+        margin-left: 37px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 329px;
+        margin-top: -246px;
+        margin-right: -23px;
+    }
+
+    .roulette-spining {
+        height: 206px;
+        margin-top: -243px;
+        margin-right: -24px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 360px;
+        margin-bottom: 169px;
+        margin-right: -16px;
+    }
+
+    .button {
+        width: 337px;
+        height: 55px;
+        bottom: 176px;
+        margin-left: 3px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 124px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 141px;
+    }
+
+    #you-win {
+        left: 20px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 93px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 475px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 180px;
+        margin-top: 47px;
+        margin-left: 41px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 339px;
+        margin-top: -246px;
+        margin-right: -39px;
+    }
+
+    .roulette-spining {
+        height: 213px;
+        margin-top: -243px;
+        margin-right: -41px;
+    }
+ 
+    .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 364px;
+        margin-bottom: 169px;
+        margin-right: -7px;
+    }
+    
+
+    .button {
+        width: 337px;
+        height: 55px;
+        bottom: 176px;
+        margin-left: 8px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 157px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 168px;
+    }
+
+    #you-win {
+        left: 57px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 129px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 510px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 180px;
+        margin-top: 47px;
+        margin-left: 57px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 358px;
+        margin-top: -246px;
+        margin-right: -67px;
+    }
+
+    .roulette-spining {
+        height: 225px;
+        margin-top: -243px;
+        margin-right: -67px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 372px;
+        margin-bottom: 157px;
+        margin-right: -2px;
+    }
+    
+    .button {
+        width: 337px;
+        height: 55px;
+        bottom: 164px;
+        margin-left: 8px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 180px;
+        bottom: 376px;
+        left: 157px;
+    }
+    
+    .wheel-button {
+        width: 160px;
+        bottom: 307px;
+        left: 168px;
+    }
+
+    #you-win {
+        left: 57px;
+        width: 360px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 129px;
+        width: 240px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 550px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 180px;
+        margin-top: 47px;
+        margin-left: 82px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 358px;
+        margin-top: -246px;
+        margin-right: -79px;
+    }
+
+    .roulette-spining {
+        height: 225px;
+        margin-top: -243px;
+        margin-right: -78px;
+    }
+
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 372px;
+        margin-bottom: 157px;
+        margin-right: 18px;
+    }
+    
+    .button {
+        width: 337px;
+        height: 55px;
+        bottom: 164px;
+        margin-left: 27px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .inner-wheel-btn {
+        padding-top: 11px;
+    }
+
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 231px;
+        bottom: 376px;
+        left: 167px;
+    }
+    
+    .wheel-button {
+        width: 205px;
+        height: 51px;
+        bottom: 307px;
+        left: 187px;
+    }
+
+    #you-win {
+        left: 70px;
+        width: 419px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 156px;
+        width: 261px;
+        height: 58px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn {
+        font-size: 23px;
+        padding-top: 10px;
+    }
+
+    .modal-content{
+        margin-left: 21px;
+    }
+
+}
+
+@media (min-width: 600px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 180px;
+        margin-top: 47px;
+        margin-left: 98px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 358px;
+        margin-top: -246px;
+        margin-right: -132px;
+    }
+
+    .roulette-spining {
+        height: 225px;
+        margin-top: -242px;
+        margin-right: -134px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 372px;
+        margin-bottom: 157px;
+        margin-right: 31px;
+    }
+    
+    .button {
+        width: 350px;
+        height: 59px;
+        bottom: 164px;
+        margin-left: 14px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 231px;
+        bottom: 376px;
+        left: 167px;
+    }
+    
+    .wheel-button {
+        width: 205px;
+        height: 51px;
+        bottom: 307px;
+        left: 187px;
+    }
+
+    #you-win {
+        left: 87px;
+        width: 419px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 180px;
+        width: 261px;
+        height: 58px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 630px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 180px;
+        margin-top: 47px;
+        margin-left: 127px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 358px;
+        margin-top: -242px;
+        margin-right: -173px;
+    }
+
+    .roulette-spining {
+        height: 232px;
+        margin-top: -239px;
+        margin-right: -179px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 372px;
+        margin-bottom: 157px;
+        margin-right: 42px;
+    }
+    
+    .button {
+        width: 350px;
+        height: 59px;
+        bottom: 160px;
+        margin-left: 45px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+    
+
+    #try-again {
+        width: 231px;
+        bottom: 376px;
+        left: 214px;
+    }
+    
+    .wheel-button {
+        width: 205px;
+        height: 51px;
+        bottom: 307px;
+        left: 234px;
+    }
+
+    #you-win {
+        left: 109px;
+        width: 419px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 202px;
+        width: 261px;
+        height: 58px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 700px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 192px;
+        margin-top: 19px;
+        margin-left: 149px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 412px;
+        margin-top: -246px;
+        margin-right: -187px;
+    }
+
+    .roulette-spining {
+        height: 260px;
+        margin-top: -243px;
+        margin-right: -189px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 411px;
+        margin-bottom: 109px;
+        margin-right: 59px;
+    }
+    
+    .button {
+        width: 350px;
+        height: 65px;
+        bottom: 105px;
+        margin-left: 45px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+    
+    #try-again {
+        width: 231px;
+        bottom: 376px;
+        left: 214px;
+    }
+    
+    .wheel-button {
+        width: 205px;
+        height: 51px;
+        bottom: 307px;
+        left: 234px;
+    }
+
+    #you-win {
+        left: 109px;
+        width: 419px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 202px;
+        width: 261px;
+        height: 58px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 735px) {
+ 
+    .child1{
+        left: 85px;
+        top: 12px;
+    }
+
+    .lucky-win {
+        height: 192px;
+        margin-top: 19px;
+        margin-left: 162px;
+    }
+
+    .child2{
+        bottom: 351px;
+        left: 142px;
+    }
+
+    .roulette-stage {
+        height: 412px;
+        margin-top: -246px;
+        margin-right: -242px;
+    }
+
+    .roulette-spining {
+        height: 260px;
+        margin-top: -243px;
+        margin-right: -245px;
+    }
+ 
+   .child3{
+    right: 27px;
+    bottom: 56px;
+    }
+
+    .model-girl {
+        height: 411px;
+        margin-bottom: 109px;
+        margin-right: 68px;
+    }
+    
+    .button {
+        width: 384px;
+        height: 65px;
+        bottom: 105px;
+        margin-left: 45px;
+    }
+
+    .inner-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+    }
+    
+    .inner-wheel-btn {
+        padding-top: 13px;
+    }
+
+    .shadow-div{
+        position: absolute;
+        bottom: 0;
+        height: 350px;
+        width: 100%;
+        background: linear-gradient(to top, rgba(0,0,0,1.0), transparent);
+
+    }  
+
+    #try-again {
+        width: 248px;
+        bottom: 376px;
+        left: 237px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 307px;
+        left: 257px;
+    }
+
+    #you-win {
+        left: 144px;
+        width: 440px;
+        bottom: 292px;
+    }
+    
+    .win-wheel-button {
+        left: 230px;
+        width: 291px;
+        height: 68px;
+        bottom: 317px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    .child1{
+        left: 82px;
+        bottom: 280px;
+    }
+
+    .lucky-win {
+        height: 193px;
+        margin-left: -88px;
+        margin-top: 279px;
+    }
+
+    .child2{
+        bottom: 470px;
+        left: 410px;
+    }
+
+    .roulette-stage {
+        height: 516px;
+        margin-top: -73px;
+        margin-left: -264px;
+    }
+
+    .roulette-spining {
+        height: 329px;
+        margin-top: -71px;
+        margin-right: 19px;
+    }
+ 
+    .child3{
+        right: 80px;
+    }
+
+    .model-girl {
+        height: 526px;
+        margin-right: -87px;
+        margin-bottom: -60px;
+    }
+    
+    .button {
+        width: 244px;
+        left: 238px;
+        bottom: 132px;
+        height: 62px;
+    }
+
+    .inner-button {
+        height: 95%;
+        border-radius: 2px;
+        font-size: 17px;
+        border: none;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 258px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 306px;
+    }
+
+    #you-win {
+        left: 144px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 247px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+    
+}
+
+@media (min-width: 881px) {
+    .roulette-stage {
+        margin-left: -198px;
+    }
+
+    .button {
+        width: 244px;
+        left: 270px;
+        bottom: 131px;
+        height: 62px;
+    }
+
+    .roulette-spining {
+        height: 329px;
+        margin-top: -71px;
+        margin-right: -48px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 293px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 332px;
+    }
+
+    #you-win {
+        left: 191px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 295px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+}
+
+@media (min-width: 955px) {
+    .lucky-win {
+        height: 204px;
+        margin-left: -48px;
+    }
+
+    .roulette-stage {
+        margin-left: -117px;
+    }
+
+    .button {
+        left: 309px;
+        bottom: 131px;
+    }    
+
+    .roulette-spining {
+        height: 329px;
+        margin-top: -71px;
+        margin-right: -133px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 333px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 379px;
+    }
+
+    #you-win {
+        left: 235px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 340px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+}
+
+@media (min-width: 1005px) {
+
+    .model-girl {
+        height: 539px;
+    }
+    
+    .lucky-win {
+        height: 215px;
+        margin-left: -26px;
+    }
+
+    .roulette-stage {
+        margin-left: -35px;
+    }
+
+    .button {
+        left: 352px;
+        bottom: 131px;
+    }     
+
+    .roulette-spining {
+        height: 329px;
+        margin-top: -71px;
+        margin-right: -203px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 368px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 416px;
+    }
+
+    #you-win {
+        left: 269px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 370px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+
+    .modal-content {
+        margin-left: 43px;
+    }
+}
+
+@media (min-width: 1024px) {
+
+    .child1{
+        left: 82px;
+        bottom: 280px;
+    }
+
+    .lucky-win {
+        height: 225px;
+        margin-left: -57px;
+        margin-top: 319px;
+    }
+
+    .child2{
+        bottom: 470px;
+        left: 410px;
+    }
+
+    .roulette-stage {
+        height: 563px;
+        margin-top: -114px;
+        margin-left: 3px;
+    }
+
+    .roulette-spining {
+        height: 355px;
+        margin-top: -111px;
+        margin-right: -252px;
+    }
+ 
+    .child3{
+        right: 80px;
+    }
+
+    .model-girl {
+        height: 561px;
+        margin-right: -83px;
+    }
+
+    .button {
+        width: 256px;
+        left: 366px;
+        bottom: 139px;
+        height: 61px;
+    }
+
+    .inner-button {
+        height: 95%;
+        border-radius: 2px;
+        font-size: 17px;
+        border: none;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 368px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 416px;
+    }
+
+    #you-win {
+        left: 269px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 370px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+    }
+    
+}
+
+
+@media screen and (min-width: 1120px) {
+    .roulette-stage {
+        height: 563px;
+        margin-top: -114px;
+        margin-left: 56px;
+    }
+
+    .button {
+        width: 256px;
+        left: 393px;
+        bottom: 137px;
+        height: 61px;
+    }
+
+    .roulette-spining {
+        height: 355px;
+        margin-top: -111px;
+        margin-right: -299px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 420px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 468px;
+    }
+
+    #you-win {
+        left: 316px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 417px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+
+}
+
+@media screen and (min-width: 1150px) {
+    .lucky-win {
+        height: 254px;
+        margin-left: -22px;
+        margin-top: 310px;
+    }
+
+    .roulette-stage {
+        height: 563px;
+        margin-top: -114px;
+        margin-left: 128px;
+    }
+
+    .button {
+        width: 256px;
+        left: 429px;
+        bottom: 139px;
+        height: 61px;
+    }
+
+    .model-girl {
+        height: 561px;
+        margin-right: -77px;
+    }
+
+    .roulette-spining {
+        height: 355px;
+        margin-top: -111px;
+        margin-right: -373px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 449px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 492px;
+    }
+
+    #you-win {
+        left: 349px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 455px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+}
+
+@media screen and (min-width: 1215px) {
+
+
+    .roulette-stage {
+        margin-left: 205px;
+    }
+
+    .button {
+        left: 466px;
+        bottom: 142px;
+    }
+
+    .model-girl {
+        height: 561px;
+        margin-right: -77px;
+    }
+
+    .roulette-spining {
+        height: 355px;
+        margin-top: -111px;
+        margin-right: -448px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 489px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 530px;
+    }
+
+    #you-win {
+        left: 393px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 495px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+}
+
+@media screen and (min-width: 1270px) {
+
+    .roulette-stage {
+        margin-left: 273px;
+    }
+
+    .button {
+        left: 500px;
+    }
+
+    .model-girl {
+        margin-right: -77px;
+    }
+
+    .roulette-spining {
+        height: 355px;
+        margin-top: -111px;
+        margin-right: -516px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 525px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 565px;
+    }
+
+    #you-win {
+        left: 427px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 532px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+}
+
+@media screen and (min-width: 1345px) {
+    .lucky-win {
+        height: 254px;
+        margin-left: 19px;
+        margin-top: 310px;
+    }
+
+    .roulette-stage {
+        margin-left: 331px;
+    }
+
+    .button {
+        left: 532px;
+        margin-bottom: -3px;
+    }
+
+    .model-girl {
+        margin-right: -11px;
+    }
+
+    .roulette-spining {
+        height: 355px;
+        margin-top: -111px;
+        margin-right: -576px;
+    }
+    
+    #try-again {
+        width: 299px;
+        bottom: 343px;
+        left: 525px;
+    }
+    
+    .wheel-button {
+        width: 215px;
+        height: 60px;
+        bottom: 270px;
+        left: 565px;
+    }
+
+    #you-win {
+        left: 427px;
+        width: 469px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 532px;
+        width: 291px;
+        height: 68px;
+        bottom: 262px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+    .child1{
+        left: 82px;
+        bottom: 280px;
+    }
+
+    .lucky-win {
+        height: 311px;
+        margin-left: 9px;
+        margin-top: 210px;
+    }
+
+    .child2{
+        bottom: 470px;
+        left: 410px;
+    }
+
+    .roulette-stage {
+        height: 658px;
+        margin-top: -209px;
+        margin-left: 429px;
+    }
+
+    .roulette-spining {
+        height: 420px;
+        margin-top: -205px;
+        margin-right: -668px;
+    }
+ 
+    .child3{
+        right: 80px;
+    }
+
+    .model-girl {
+        height: 625px;
+        margin-right: 21px;
+        margin-bottom: -60px;
+    }
+
+    .button {
+        width: 291px;
+        left: 561px;
+        bottom: 169px;
+        height: 65px;
+    }
+
+    .inner-button {
+        height: 95%;
+        border-radius: 2px;
+        font-size: 17px;
+        border: none;
+    }
+
+    .inner-wheel-btn {
+        padding-top: 20px;
+    }
+    
+    #try-again {
+        width: 320px;
+        bottom: 343px;
+        left: 572px;
+    }
+    
+    .wheel-button {
+        width: 226px;
+        height: 72px;
+        bottom: 270px;
+        left: 622px;
+    }
+
+    #you-win {
+        left: 461px;
+        width: 506px;
+        bottom: 213px;
+    }
+    
+    .win-wheel-button {
+        left: 587px;
+        width: 291px;
+        height: 75px;
+        bottom: 262px;
+    }
+
+    .win-inner-wheel-btn{
+        font-size: 23px;
+        padding-top: 18px;
+    }
+    
+}
