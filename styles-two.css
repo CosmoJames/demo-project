@@ -1876,24 +1876,24 @@
     #try-again {
         width: 320px;
         bottom: 343px;
-        left: 572px;
+        left: 590px;
     }
     
     .wheel-button {
         width: 226px;
         height: 72px;
         bottom: 270px;
-        left: 622px;
+        left: 639px;
     }
 
     #you-win {
-        left: 461px;
+        left: 479px;
         width: 506px;
         bottom: 213px;
     }
     
     .win-wheel-button {
-        left: 587px;
+        left: 607px;
         width: 291px;
         height: 75px;
         bottom: 262px;
